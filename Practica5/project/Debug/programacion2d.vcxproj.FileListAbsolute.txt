@@ -1,0 +1,4 @@
+C:\Users\Nico\Desktop\MPVJ\Programacion2D\Practica2\project\Debug\programacion2d.exe
+C:\Users\Nico\Desktop\MPVJ\Programacion2D\Practica3\project\Debug\programacion2d.exe
+C:\Users\Nico\Desktop\MPVJ\Programacion2D\Practica4\project\Debug\programacion2d.exe
+C:\Users\Nico\Desktop\MPVJ\Programacion2D\Practica5\project\Debug\programacion2d.exe
